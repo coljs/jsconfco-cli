@@ -1,0 +1,50 @@
+[
+  {
+    "type": "Platinum",
+    "content": [
+      {
+        "name": "RutaN",
+        "link": "https://www.rutanmedellin.org/es/"
+      },
+      {
+        "name": "Huge",
+        "link": "https://www.hugeinc.com/"
+      },
+      {
+        "name": "Zemoga",
+        "link": "https://www.zemoga.com/"
+      }
+    ]
+  },
+  {
+    "type": "Gold",
+    "content": [
+      {
+        "name": "Endava",
+        "link": "https://www.endava.com/"
+      }
+    ]
+  },
+  {
+    "type": "Silver",
+    "content": [
+      {
+        "name": "Get On Board",
+        "link": "https://www.getonbrd.com/"
+      },
+      {
+        "name": "Wolox",
+        "link": "https://www.wolox.com.ar/"
+      }
+    ]
+  },
+  {
+    "type": "Support",
+    "content": [
+      {
+        "name": "UruIT",
+        "link": "https://www.uruit.com/"
+      }
+    ]
+  }
+]

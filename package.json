@@ -1,0 +1,43 @@
+{
+  "name": "jsconfco",
+  "version": "20.18.0",
+  "description": "A CLI with info related to the conference",
+  "homepage": "https://github.com/coljs/jsconfco-cli",
+  "bin": {
+    "jsconfco": "./bin/jsconfco.js"
+  },
+  "scripts": {
+    "lint": "standard",
+    "fix-lint": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSConf",
+    "Conference",
+    "CLI"
+  ],
+  "author": "JSConfCo",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:coljs/jsconfco-cli.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "args": "^5.0.0",
+    "asciify-image": "^0.1.3",
+    "cardinal": "^2.1.1",
+    "chalk": "^2.4.1",
+    "cli-table3": "^0.5.1",
+    "got": "^9.2.2",
+    "inquirer": "^6.2.0",
+    "marked": "0.5.1",
+    "marked-terminal": "3.1.1",
+    "moment": "^2.22.2",
+    "opn": "5.4.0",
+    "ora": "^3.0.0",
+    "word-wrap": "^1.2.3"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}

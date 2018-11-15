@@ -47,6 +47,7 @@ The possible commands are:
 |version  |-|Display version |
 
 The possible options are:
+
 |Shortcut |Option |Description|
 |----------------|------------------|------------------|
 |-h|`--help`            |Output usage information            |
